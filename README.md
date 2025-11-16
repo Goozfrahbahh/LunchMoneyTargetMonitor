@@ -1,0 +1,3 @@
+# LunchMoneyTargetMonitor
+
+Initial setup.
